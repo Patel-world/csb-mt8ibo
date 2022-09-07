@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://patel-world.github.io/csb-mt8ibo/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://patel-world.github.io/csb-mt8ibo/static/js/main.8cf0ded0.chunk.js",
+    "main.js.map": "https://patel-world.github.io/csb-mt8ibo/static/js/main.8cf0ded0.chunk.js.map",
+    "runtime-main.js": "https://patel-world.github.io/csb-mt8ibo/static/js/runtime-main.15ac7902.js",
+    "runtime-main.js.map": "https://patel-world.github.io/csb-mt8ibo/static/js/runtime-main.15ac7902.js.map",
+    "static/js/2.a4daf67f.chunk.js": "https://patel-world.github.io/csb-mt8ibo/static/js/2.a4daf67f.chunk.js",
+    "static/js/2.a4daf67f.chunk.js.map": "https://patel-world.github.io/csb-mt8ibo/static/js/2.a4daf67f.chunk.js.map",
+    "index.html": "https://patel-world.github.io/csb-mt8ibo/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://patel-world.github.io/csb-mt8ibo/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4daf67f.chunk.js.LICENSE.txt": "https://patel-world.github.io/csb-mt8ibo/static/js/2.a4daf67f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15ac7902.js",
+    "static/js/2.a4daf67f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8cf0ded0.chunk.js"
+  ]
+}
